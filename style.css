@@ -35,3 +35,6 @@ text-transform:none !important;
     .section_root #chabad_body_page .chabad_content_head .chabad_titles .HeaderTitle{
         font-size:38px !important;
     }
+    div#chabad_head .chabad_navigator_bar ul#menu{
+        justify-content:flex-end !important;
+    }
