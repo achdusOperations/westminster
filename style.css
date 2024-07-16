@@ -30,5 +30,8 @@ text-transform:none !important;
         background-size:100%;
     }
     .section_root #chabad_body_page .chabad_content_head .chabad_titles .HeaderTitle{
-        padding-top:130px !important;
+        padding-top:200px !important;
+    }
+    .section_root #chabad_body_page .chabad_content_head .chabad_titles .HeaderTitle{
+        font-size:38px !important;
     }
