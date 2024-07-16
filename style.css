@@ -18,7 +18,7 @@ text-transform:none !important;
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
 }
-
-    .sneak-peek-container .sneak_peek .thumbnail, .sneak_peek a.thumbnail img {
+/* images roundish*/
+    .sneak-peek-container .sneak_peek .thumbnail, .sneak_peek a.thumbnail img, .sneak-peek-container .sneak_peek .widget_content h6:hover {
         border-radius:50px !important;
     }
