@@ -29,6 +29,6 @@ text-transform:none !important;
     div#chabad_head .chabad_content_head{
         background-size:100%;
     }
-    div#chabad_head .chabad_content_head{
+    .section_root #chabad_body_page .chabad_content_head .chabad_titles .HeaderTitle{
         padding-top:150px !important;
     }
