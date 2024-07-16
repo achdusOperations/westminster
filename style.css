@@ -1,0 +1,11 @@
+#BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_header > h5, #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div.hp-row.hp_subscribe > div > div > div.widget_header > h5{
+    text-transform: capitalize !important;
+}
+/*making some elements a different font*/
+.widget-4 .bottom_padding, .cycle-caption :not(big, a){
+    font-family: 'Roboto Slab', sans-serif !important;
+    }
+    .co_body .content .form-all, .co_body .content p, .co_body h1, .co_body h1 a, .co_body h2, .co_body h2 a, .co_body h3, .co_body h3 a, .co_body h4, .co_body h4 a, .co_body h5, .co_body h5 a, .co_body h6, .co_body h6 a, .cps-container h1, .cps-container h2, .cps-container p, .form-all, a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, html body.cco_body, html body.cco_body p, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, pre, q, ruby, s, samp, section, small, strike, strong, sub, summary, sup, table, tfoot, time, tt, u, ul, var, video{
+font-family: 'Maven Pro', sans-serif !important;
+text-transform:none !important;
+}
