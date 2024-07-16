@@ -18,9 +18,7 @@ text-transform:none !important;
 .message .wrapper .widget_content .readMore, .hp-table .hp-row-first .promo_slider .slider .cycle-caption .readMore, .latest_photos .readMore span, body.cco_body #tabContentMain .co_menu_item.donate_link span.parent a, .hp-table>:not(:first-child) .promo_slider .cycle-caption .readMore {
     border-radius: 25px !important;
 }
-.article_index_container .co_index.article_index .row .item .title{
-    border-radius:100px !important;
-}
-.article_index_container .co_index.article_index .row .item .title a:hover{
-    border-radius:100px !important;
-}
+
+    .sneak-peek-container .sneak_peek .thumbnail, .sneak_peek a.thumbnail img {
+        border-radius:50px !important;
+    }
