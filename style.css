@@ -9,3 +9,8 @@
 font-family: 'Maven Pro', sans-serif !important;
 text-transform:none !important;
 }
+/*donate buttons*/
+#donate-wrapper main .amounts button{
+    background: maroon !important;
+    color:#FFF !important;
+}
