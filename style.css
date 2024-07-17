@@ -19,7 +19,7 @@ text-transform:none !important;
     border-radius: 25px !important;
 }
 /* images roundish*/
-    .sneak-peek-container .sneak_peek .thumbnail, .sneak_peek a.thumbnail img, .sneak-peek-container .sneak_peek .widget_content h6:hover {
+.article_index_container .co_index.article_index .row .item .synopsis_icon, .article_index_container .co_index.article_index .row .item .title a:hover, .sneak-peek-container .sneak_peek .thumbnail, .sneak_peek a.thumbnail img, .sneak-peek-container .sneak_peek .widget_content h6:hover {
         border-radius:50px !important;
     }
     /*navigation bar*/
@@ -37,4 +37,11 @@ text-transform:none !important;
     }
     div#chabad_head .chabad_navigator_bar ul#menu{
         justify-content:flex-end !important;
+    }
+    /*remove quick links*/
+    #co_ads_container .co_local_menu{
+        display:none !important;
+    }
+    #co_ads_container .co_local_menu{
+        padding-top:40px !important;
     }
