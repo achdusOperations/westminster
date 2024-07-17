@@ -42,6 +42,6 @@ text-transform:none !important;
     #co_ads_container .co_local_menu{
         display:none !important;
     }
-    #co_ads_container .co_local_menu{
+    .dir_ltr #co_ads_container{
         padding-top:40px !important;
     }
