@@ -60,7 +60,7 @@ text-transform:none !important;
 
         @media (min-width:992px){
         div#chabad_head .NavButton{
-            transform:translate(50%) !important;
+           right:-80px !important;
         }
     }
     body:not(.mobile) div#chabad_head .chabad_navigator_bar ul#menu, body:not(.mobile) div#chabad_head div#chabad_head #navBar ul#menu{
