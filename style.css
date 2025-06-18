@@ -45,3 +45,27 @@ text-transform:none !important;
     .dir_ltr #co_ads_container{
         padding-top:40px !important;
     }
+
+    /*mitzva mini site*/
+
+    @media (max-width:992px){
+        div#chabad_head .NavButton a{
+            color:#ffde17 !important;
+        }
+        }
+
+        div#chabad_head .chabad_text_head{
+            color:#FFF !important;
+        }
+
+        @media (min-width:992px){
+        div#chabad_head .NavButton{
+            transform:translate(50%) !important;
+        }
+    }
+    body:not(.mobile) div#chabad_head .chabad_navigator_bar ul#menu, body:not(.mobile) div#chabad_head div#chabad_head #navBar ul#menu{
+        margin-right:10% !important;
+    }
+    body.mobile .chabad_banner_content .chabad_text_banner{
+        display:none !important;
+    }
