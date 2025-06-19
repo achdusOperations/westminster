@@ -72,7 +72,10 @@ text-transform:none !important;
     @media (max-width:992px){
         #co_content_container .co_body img{
             object-fit: contain !important;
-            /* margin-top:-150px !important;
-            margin-bottom:-70px !important;*/
+            /* margin-top:-150px !important;*/
+          /*  margin-bottom:-70px !important;*/
+        }
+        #chabad_left_colum > div:nth-child(3) > img{
+            margin-bottom:-25px !important;
         }
     }
