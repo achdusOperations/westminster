@@ -71,6 +71,6 @@ text-transform:none !important;
     }
     @media (max-width:992px){
         #co_content_container .co_body img{
-            object-fit: cover !important;
+            object-fit: contain !important;
         }
     }
