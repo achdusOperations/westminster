@@ -66,6 +66,4 @@ text-transform:none !important;
     body:not(.mobile) div#chabad_head .chabad_navigator_bar ul#menu, body:not(.mobile) div#chabad_head div#chabad_head #navBar ul#menu{
         margin-right:10% !important;
     }
-    body.mobile .chabad_banner_content .chabad_text_banner{
-        display:none !important;
-    }
+   
