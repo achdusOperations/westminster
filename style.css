@@ -75,7 +75,7 @@ text-transform:none !important;
             /* margin-top:-150px !important;*/
           /*  margin-bottom:-70px !important;*/
         }
-        #chabad_left_colum > div:nth-child(3) > img{
+        #chabad_left_colum > div:nth-child(3) > img, #chabad_left_colum > div:nth-child(4) > img:nth-child(2), #chabad_left_colum > div:nth-child(4) > img:nth-child(1){
             margin-bottom:-150px !important;
         }
     }
