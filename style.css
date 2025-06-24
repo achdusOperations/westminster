@@ -61,7 +61,7 @@ text-transform:none !important;
         @media (min-width:992px){
             
         :not(html:has(meta[content*="Hebrew School - ChabadWestminster.com"])) div#chabad_head .NavButton{
-            display:none !important;
+            display:none ;
         }
         html:has(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
             right:-75px !important;
