@@ -59,13 +59,13 @@ text-transform:none !important;
         }
 
         @media (min-width:992px){
-            
+            html:has(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
+                right:-75px !important;
+             }   
         html:not(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
-            display:none !important;
+            display:none;
         }
-        html:has(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
-            right:-75px !important;
-         }
+        
     }
     body:not(.mobile) div#chabad_head .chabad_navigator_bar ul#menu, body:not(.mobile) div#chabad_head div#chabad_head #navBar ul#menu{
         margin-right:10% !important;
