@@ -63,7 +63,7 @@ text-transform:none !important;
                 right:-75px !important;
              }   
         html:not(:has(meta[content*="Hebrew School - ChabadWestminster.com"])) div#chabad_head .NavButton{
-            display:none;
+            display:none !important;
         }
         
     }
