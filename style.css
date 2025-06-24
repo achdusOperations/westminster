@@ -62,7 +62,7 @@ text-transform:none !important;
             html:has(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
                 right:-75px !important;
              }   
-        html:not(meta[content*="Hebrew School - ChabadWestminster.com"]) div#chabad_head .NavButton{
+        html:not(:has(meta[content*="Hebrew School - ChabadWestminster.com"])) div#chabad_head .NavButton{
             display:none;
         }
         
